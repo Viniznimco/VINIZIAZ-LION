@@ -1,5 +1,5 @@
-/* I don't know what's this..!
-        and don't forget to say hi to your partner. */
+/* I do everything through GOD'S grace..!
+        and don't forget to love your enemy always. */
 
 const {
   default: ravenConnect,
@@ -27,8 +27,8 @@ const _ = require("lodash");
 const event = require('./action/events');
 const authenticationn = require('./action/auth');
 const PhoneNumber = require("awesome-phonenumber");
-const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/ravenexif');
-const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/ravenfunc');
+const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/viniziazexif');
+const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/viniziazfunc');
 const { sessionName, session, autobio, autolike, port, packname, autoviewstatus } = require("./set.js");
 const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream: "store" }) });
 const color = (text, color) => {
@@ -42,7 +42,7 @@ async function startRaven() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("RAVEN", {
+      figlet.textSync("VINIZIAZ", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -55,7 +55,7 @@ async function startRaven() {
   const client = ravenConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["RAVEN - AI", "Safari", "5.1.7"],
+    browser: ["VINIZIAZ - AI", "Safari", "5.1.7"],
     auth: state,
     syncFullHistory: true,
   });
@@ -83,7 +83,7 @@ async function startRaven() {
             
       if (autolike === 'TRUE' && mek.key && mek.key.remoteJid === "status@broadcast") {
         const nickk = await client.decodeJid(client.user.id);
-        await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '🎭' } }, { statusJidList: [mek.key.participant, nickk] });
+        await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '🔥' } }, { statusJidList: [mek.key.participant, vinizj] });
       }
 
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
@@ -204,10 +204,10 @@ async function startRaven() {
       }
     } else if (connection === "open") {
       await client.groupAcceptInvite("DefN96lXQ4i5iO1wDDeu2C");
-      console.log(color("Congrats, RAVEN-BOT has successfully connected to this server", "green"));
-      console.log(color("Follow me on Instagram as Nick_hunter9", "red"));
+      console.log(color("Awesome, VINIZIAZ-MD is connected to this server succesfully", "green"));
+      console.log(color("Follow me on Instagram as Viniziaz_nimco", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
-      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 » » »【𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧】 ` });
+      client.sendMessage(client.user.id, { text: `BOT ALIVE NAH BRUH  » » »VINIZIAZ MD` });
     }
   });
 
