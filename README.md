@@ -15,7 +15,7 @@ Viniziaz-Yᴍᴅ y³
 <p align="center">l introduce <b>Viniziaz-xmd</b>, a  simple WhatsApp bot Created By Viniziaz</p>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{abdallahsalimjuma}/count.svg" alt="Viniziaz ymd :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{viniziaz nimco}/count.svg" alt="Viniziaz ymd :: Visitor's Count" /></p>
 
 ---
 
@@ -28,7 +28,7 @@ Viniziaz-Yᴍᴅ y³
 </div>
 <p align="center">
   <a href="https://github.com/Viniznimco/VINIZIAZ-LION/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fabdallahsalimjuma%2FDULLAH-XMD%2Ftree%2Fmain"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Viniznimco/VINIZIAZ-LION"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -86,7 +86,7 @@ star✨ Hello gee 👊 star my repo for smooth deployment
 
 **2. If You Have Account On Heroku**
 
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dullah-xmd-website.vercel.app/)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://viniziaz-xmd-website.vercel.app/)***
 
 **DEPLOY ON RENDER**
 
@@ -102,8 +102,8 @@ _Termux Setup not recommended_
 
 <table>
   <tr>
-    <td>dullah xmd</td>
-    <td>Dullah md</td>
+    <td>viniziaz xmd</td>
+    <td>Viniziaz xmd</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Viniznimco"><img src="https://files.catbox.moe/533oqh.jpg" width="180"</td>
