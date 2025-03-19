@@ -39,7 +39,7 @@ Viniziaz-Yᴍᴅ y³
 - <a
 href="https://www.facebook.com/100087010467670"><img title="Author" src="https://img.shields.io/badge/ON Facebook-blue?style=for-the-badge&logo=facebook"></a>
 - <a
-href="https://wa.me/2547599251331"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
+href="https://wa.me/254759925133"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
 - <a href="https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
 - <a href="https://youtube.com/@herokuplatform?si=kl684fKNUpxTFig2"><img title="Author" src="https://img.shields.io/badge/ON YouTube-darkred?style=for-the-badge&logo=youtube"></a>
 
@@ -106,8 +106,8 @@ _Termux Setup not recommended_
     <td>Viniziaz xmd</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Viniznimco"><img src="https://files.catbox.moe/533oqh.jpg" width="180"</td>
-    <td><a href="https://github.com/Viniznimco"><img src="https://files.catbox.moe/hegdag.jpg" width="180"</td>
+    <td><a href="https://github.com/Viniznimco"><img src="https://i.imgur.com/bYClBF8.jpeg" width="180"</td>
+    <td><a href="https://github.com/Viniznimco"><img src="https://i.imgur.com/bYClBF8.jpeg" width="180"</td>
   </tr>
 </table 
 
@@ -115,7 +115,7 @@ _Termux Setup not recommended_
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/254759925133" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Viniziaz contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/WhatsApp  Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
