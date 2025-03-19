@@ -20,11 +20,11 @@ Viniziaz-Yᴍᴅ y³
 ---
 
 <p align="center">
-  <a href="https://github.com/abdallahsalimjuma/VINIZIAZ-XMD"><b>Viniziaz xmd</b></a> Support Deploy On...
+  <a href="https://github.com/Viniznimco/VINIZIAZ-LION"><b>Viniziaz xmd</b></a> Support Deploy On...
 </p>
 </a>
   <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
+  <img src="https://github.com/Viniznimco/VINIZIAZ-LION" alt="Widget with the current Spotify song"  />
 </div>
 <p align="center">
   <a href="https://github.com/Viniznimco/VINIZIAZ-LION/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
@@ -64,7 +64,7 @@ href="https://wa.me/2547599251331"><img title="Author" src="https://img.shields.
 
 <a href= "https://github.com/Viniznimco/VINIZIAZ-LION/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
-star✨ my repo bruh don't forget please🤖
+star✨ Hello gee 👊 star my repo for smooth deployment 
 
 
 ## 2.SECOND STEP 
