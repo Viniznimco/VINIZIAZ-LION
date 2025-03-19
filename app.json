@@ -1,6 +1,6 @@
 {
-  "name": "RAVEN-BOT",
-  "description": "I don't know what I'm doing",
+  "name": "VINIZIAZ-XMD",
+  "description": "Best whatsapp bot developed by Viniziaz",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,18 +14,18 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/HunterNick2/RAVEN-BOT#readme",
-  "repository": "https://github.com/HunterNick2/RAVEN-BOT.git",
+  "website": "https://github.com/Viniznimco/VINIZIAZ-LION#readme",
+  "repository": "https://github.com/Viniznimco/VINIZIAZ-LION.git",
   "logo": "https://telegra.ph/file/eebe191a0520a79979b34.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of RAVEN-BOT Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of VINIZIAZ-XMD Ex: . , / , # , & etc. Put any symbol symbol bro you aren't weak",
       "required": false
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114660061,27849061633  ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254759925133,96643694699  ",
       "required": true
     },
     "NOT_OWNER_MSG": {
@@ -35,7 +35,7 @@
     
     
     "BOT_ADMIN_MSG": {
-      "description": "Put a message that the bot will send if a parameter that requires bot to be admin is violated. Example: Bot is not admin!",
+      "description": "Put a message that the bot will send if a parameter that requires bot to be admin is violated. Example: Only Viniziaz can do this!",
       "required": false
     },
     "ADMIN_MSG": {
@@ -47,7 +47,7 @@
       "required": true
     },
     "BAD_WORD": {
-      "description": "List words separated witj commas that will be considered as bad and will trigger bot to kick. Example: fuck, pussy, hoe",
+      "description": "List words separated witj commas that will be considered as bad and will trigger bot to kick. Example: Idiot, shit, fuck",
       "required": false
     },
     "BAD_WORD_KICK": {
