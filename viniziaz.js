@@ -90,7 +90,7 @@ const {
   spawn,
   execSync
 } = require("child_process");
-module.exports = raven = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) => {
+module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) => {
   try {
     var _0x89371b = _0x4be48e.mtype === 'conversation' ? _0x4be48e.message.conversation : _0x4be48e.mtype == "imageMessage" ? _0x4be48e.message.imageMessage.caption : _0x4be48e.mtype == "videoMessage" ? _0x4be48e.message.videoMessage.caption : _0x4be48e.mtype == 'extendedTextMessage' ? _0x4be48e.message.extendedTextMessage.text : _0x4be48e.mtype == "buttonsResponseMessage" ? _0x4be48e.message.buttonsResponseMessage.selectedButtonId : _0x4be48e.mtype == "listResponseMessage" ? _0x4be48e.message.listResponseMessage.singleSelectReply.selectedRowId : _0x4be48e.mtype == "templateButtonReplyMessage" ? _0x4be48e.message.templateButtonReplyMessage.selectedId : _0x4be48e.mtype === "messageContextInfo" ? _0x4be48e.message.buttonsResponseMessage?.["selectedButtonId"] || _0x4be48e.message.listResponseMessage?.["singleSelectReply"]['selectedRowId'] || _0x4be48e.text : '';
     var _0xf2d9fe = typeof _0x4be48e.text == "string" ? _0x4be48e.text : '';
