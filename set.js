@@ -15,11 +15,11 @@ const herokuapi = process.env.HEROKU_API;
 const gptdm = process.env.GPT_INBOX || 'FALSE';
 const mode = process.env.MODE || 'PUBLIC';
 
-const botname = process.env.BOTNAME || '𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧';
+const botname = process.env.BOTNAME || '𝗩𝗜𝗡𝗜𝗭𝗜𝗔𝗭-𝗠𝗗';
 const antibot = process.env.ANTIBOT || 'FALSE';
 const author = process.env.STICKER_AUTHOR ||'𝗕𝗢𝗧';
-const packname = process.env.STICKER_PACKNAME || '𝗥𝗔𝗩𝗘𝗡';
-const dev = process.env.DEV || '254114660061';
+const packname = process.env.STICKER_PACKNAME || '𝗩𝗜𝗡𝗜𝗭𝗜𝗔𝗭';
+const dev = process.env.DEV || '254759925133';
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
 const DevRaven = dev.split(",");
@@ -45,7 +45,7 @@ module.exports = {
   author,
   packname,
   dev,
-  DevRaven,
+  DevViniz,
   badwordkick,
   bad,
   mode,
