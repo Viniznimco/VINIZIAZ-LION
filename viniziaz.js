@@ -35,7 +35,7 @@ const {
   UploadFileUgu,
   webp2mp4File,
   floNime
-} = require('./lib/ravenupload');
+} = require('./lib/viniziazupload');
 const {
   Configuration,
   OpenAI
