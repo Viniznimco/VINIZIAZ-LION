@@ -3502,7 +3502,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
                 'title': 'VINIZIAZ-MD',
                 'body': "https://chat.whatsapp.com/FRDtAailExp6hKbQgbLBnP",
                 'thumbnailUrl': "https://i.imgur.com/YpHG3eT.jpeg",
-                'sourceUrl': 'https://chat.whatsapp.com/DefN96lXQ4i5iO1wDDeu2C',
+                'sourceUrl': 'https://chat.whatsapp.com/FRDtAailExp6hKbQgbLBnP',
                 'mediaType': 0x1,
                 'renderLargerThumbnail': true
               }
