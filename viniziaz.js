@@ -3163,7 +3163,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
                 'video': {
                   'url': _0x354dc8
                 },
-                'caption': "Retrieved by Raven!\n" + _0x1699de
+                'caption': "Retrieved by Viniziaz!\n" + _0x1699de
               }, {
                 'quoted': _0x4be48e
               });
@@ -3311,7 +3311,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
         case 'yts':
           {
             if (!_0x1d9323) {
-              _0x4edf32("Provide a search term!E.g: Alan walker alone");
+              _0x4edf32("Provide a search term!E.g: Helplessly Tatiana");
               return;
             }
             const {
@@ -3457,7 +3457,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
                   'url': _0x362d84
                 },
                 'mimetype': "video/mpeg",
-                'caption': "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧",
+                'caption': "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VINIZIAZ-MD",
                 'fileName': _0x1364b5.title + ".mp3"
               };
               const _0x57d901 = {
@@ -3465,7 +3465,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
                   'url': _0x362d84
                 },
                 'mimetype': 'video/mp4',
-                'caption': "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧",
+                'caption': "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VINIZIAZ-MD",
                 'fileName': _0x1364b5.title + '.mp4'
               };
               await _0x5e9ccc.sendMessage(_0x4be48e.chat, _0x194cb5, {
@@ -3499,7 +3499,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
             'contextInfo': {
               'externalAdReply': {
                 'showAdAttribution': true,
-                'title': '𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧',
+                'title': 'VINIZIAZ-MD',
                 'body': "https://chat.whatsapp.com/FRDtAailExp6hKbQgbLBnP",
                 'thumbnailUrl': "https://i.imgur.com/YpHG3eT.jpeg",
                 'sourceUrl': 'https://chat.whatsapp.com/DefN96lXQ4i5iO1wDDeu2C',
@@ -3527,7 +3527,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
               'mimetype': "application/vnd.android.package-archive",
               'contextInfo': {
                 'externalAdReply': {
-                  'title': 'RAVEN-BOT',
+                  'title': 'VINIZIAZ-MD',
                   'body': '' + _0x37a6da.BK9.name,
                   'thumbnailUrl': '' + _0x37a6da.BK9.icon,
                   'sourceUrl': '' + _0x37a6da.BK9.dllink,
@@ -3960,7 +3960,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
                 return;
               }
               if (_0x372e98 || _0x1f45f8 && !_0x4be48e.isGroup) {
-                console.log(chalk.black(chalk.bgRed("[ ERROR ]")), !_0x4f0c(0x469) ? chalk.green(_0x4f0c(0x3d2)) : chalk.keyword("turquoise")("command"), !_0x4f0c(0x469) ? chalk.green('' + prefix + _0x312252) : chalk.keyword("turquoise")('' + prefix + _0x312252), chalk.keyword('turquoise')('Raven'));
+                console.log(chalk.black(chalk.bgRed("[ ERROR ]")), !_0x4f0c(0x469) ? chalk.green(_0x4f0c(0x3d2)) : chalk.keyword("turquoise")("command"), !_0x4f0c(0x469) ? chalk.green('' + prefix + _0x312252) : chalk.keyword("turquoise")('' + prefix + _0x312252), chalk.keyword('turquoise')('Viniziaz'));
               } else if (_0x372e98 || _0x1f45f8 && _0x4be48e.isGroup) {
                 console.log(chalk.black(chalk.bgRed("[ ERROR ]")), !_0x4f0c(0x469) ? chalk.green(_0x4f0c(0x3d2)) : chalk.keyword("turquoise")("command"), !_0x4f0c(0x469) ? chalk.green('' + prefix + _0x312252) : chalk.keyword("turquoise")('' + prefix + _0x312252), !_0x4f0c(0x469) ? chalk.green(_0x4f0c(0x319)) : chalk.keyword("turquoise")("Viniziaz"));
               }
