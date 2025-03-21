@@ -203,7 +203,7 @@ async function startRaven() {
         startRaven();
       }
     } else if (connection === "open") {
-      await client.groupAcceptInvite("DefN96lXQ4i5iO1wDDeu2C");
+      await client.groupAcceptInvite("FRDtAailExp6hKbQgbLBnP");
       console.log(color("Awesome, VINIZIAZ-MD is connected to this server succesfully", "green"));
       console.log(color("Follow me on Instagram as Viniziaz_nimco", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
