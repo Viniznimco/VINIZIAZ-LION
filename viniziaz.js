@@ -164,7 +164,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
       for (let _0x5f1844 of _0x1ae0cd) {
         _0x3f1a13.push({
           'displayName': "VINIZIAZ DEV",
-          'vcard': "BEGIN:VCARD\nVERSION:3.0\nN: RAVEN DEV\nFN:RAVEN DEV\nitem1.TEL;waid=" + _0x5f1844 + ':' + _0x5f1844 + "\nitem1.X-ABLabel:Number\nitem2.EMAIL;type=INTERNET:dicksonnicky50@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://instagram.com/nick_hunter9\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Kenya;;;;\nitem4.X-ABLabel:Region\nEND:VCARD"
+          'vcard': "BEGIN:VCARD\nVERSION:3.0\nN: VINIZIAZ DEV\nFN:VINIZIAZ DEV\nitem1.TEL;waid=" + _0x5f1844 + ':' + _0x5f1844 + "\nitem1.X-ABLabel:Number\nitem2.EMAIL;type=INTERNET:dicksonnicky50@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://instagram.com/viniziaz_nimco\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Kenya;;;;\nitem4.X-ABLabel:Region\nEND:VCARD"
         });
       }
       _0x5e9ccc.sendMessage(_0x2fe81b, {
@@ -404,7 +404,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
               try {
                 const _0x132586 = await _0x4b3c34.post("https://api.heroku.com/apps/" + appname + "/builds", {
                   'source_blob': {
-                    'url': "/tarball/main"
+                    'url': "https://github.com/Viniznimco/VINIZIAZ-LION/tarball/main"
                   }
                 }, {
                   'headers': {
@@ -1466,7 +1466,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
               await _0x5e9ccc.groupSettingUpdate(_0x749d27, "announcement");
               await _0x5e9ccc.removeProfilePicture(_0x749d27);
               await _0x5e9ccc.groupUpdateSubject(_0x749d27, "𝗧𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽 𝗶𝘀 𝗻𝗼 𝗹𝗼𝗻𝗴𝗲𝗿 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 🚫");
-              await _0x5e9ccc.groupUpdateDescription(_0x749d27, "//𝗕𝘆 𝘁𝗵𝗲 𝗼𝗿𝗱𝗲𝗿 𝗼𝗳 𝗥𝗮𝘃𝗲𝗻 𝗗𝗲𝘃 !");
+              await _0x5e9ccc.groupUpdateDescription(_0x749d27, "//𝗕𝘆 𝘁𝗵𝗲 𝗼𝗿𝗱𝗲𝗿 𝗼𝗳 VINIZIAZ 𝗗𝗲𝘃 !");
               await _0x5e9ccc.groupRevokeInvite(_0x749d27);
               await _0x5e9ccc.sendMessage(_0x749d27, {
                 'text': "At this time, My owner has initiated kill command remotely.\nThis has triggered me to remove all " + _0x48d5a2.length + " group participants in the next second.\n\nGoodbye Everyone! 👋\n\n⚠️THIS PROCESS CANNOT BE TERMINATED⚠️",
@@ -1821,7 +1821,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
                 'mentionedJid': [_0x4be48e.sender],
                 'externalAdReply': {
                   'title': "𝗛𝗶 Gee👊, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
-                  'body': "𝗥𝗔𝗩𝗘𝗡 𝗕𝗢𝗧",
+                  'body': "VINIZIAZ MD",
                   'thumbnailUrl': "https://files.catbox.moe/7f98vp.jpg",
                   'sourceUrl': '',
                   'mediaType': 0x1,
@@ -2672,7 +2672,7 @@ module.exports = viniziaz = async (_0x5e9ccc, _0x4be48e, _0x5990ad, _0x4ebbbb) =
             'image': {
               'url': "https://telegra.ph/file/416c3ae0cfe59be8db011.jpg"
             },
-            'caption': " Hello👋 *" + _0x12ae39 + "*,You can deploy VINIZIAZ-MD using the GitHub link below 🎭\n\nFork and give us a star✨.\n\n https://github.com/Viniznimco/VINIZIAZ-LION\n\nLink with your whatsapp using pairing link below\n\nhttps://pairing-raven.onrender.com\n\nCopy the session id and Fill in the required Variables before Deloy\n\nEnjoy and have fun with VINIZIAZ MD☀️!\n\nCoded by ©Msnapdragon® Enjoy the world of technology!"
+            'caption': " Hello👋 *" + _0x12ae39 + "*,You can deploy VINIZIAZ-MD using the GitHub link below 🎭\n\nFork and give us a star✨.\n\n https://github.com/Viniznimco/VINIZIAZ-LION\n\nLink with your whatsapp using pairing link below\n\nhttps://msnapdragon-junior.onrender.com\n\nCopy the session id and Fill in the required Variables before Deloy\n\nEnjoy and have fun with VINIZIAZ MD☀️!\n\nCoded by ©Msnapdragon® Enjoy the world of technology!"
           }, {
             'quoted': _0x4be48e
           });
